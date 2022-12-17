@@ -1,16 +1,16 @@
-I'm curenntly learning ...
+I'm curenntly learning data science and web developer.
 
 ## Skills and Tools
 
 #### Programming languages
 <a title="Python"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
-<a title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a title="HTML"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="40px" height="40px"></a>
 <a title="CSS"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS" width="40px" height="40px"></a>
 <a title="JS"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JS" width="40px" height="40px"></a>
+<a title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 
 #### Databases
-SQLite
+<a title="sqlite"><img src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" alt="sqlite" width="40px" height="40px"></a>
 
 #### Frameworks
 <a title="Flask"><img src="https://github.com/get-icon/geticon/blob/master/icons/flask.svg" alt="Flask" width="40px" height="40px"></a>
