@@ -23,8 +23,8 @@ SQLite
 #### Data Science
 <a title="Numpy"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="Numpy" width="40px" height="40px"></a>
 <a title="Pandas"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="Pandas" width="40px" height="40px"></a>
-<a title="matplotlib"><img src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" alt="matplotlib" width="40px" height="40px"></a>
-<a title="seaborn"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="40px" height="40px"></a>
+<a title="matplotlib"><img src="https://raw.githubusercontent.com/jmv74211/matplotlib/master/images/matplotlib_logo.png" alt="matplotlib" width="40px" height="80px"></a>
+<a title="seaborn"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" alt="seaborn" width="40px" height="80px"></a>
 
 #### Spreadsheet
 <a title="GG-sheets"><img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/google-sheets/google-sheets.png" alt="sheets" width="40px" height="40px"></a>
