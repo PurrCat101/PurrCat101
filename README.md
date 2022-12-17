@@ -1,5 +1,10 @@
 ## About me
-I'm curenntly learning data science and web developer.
+- 👋 Hi, I’m PurrCat101
+- 🎓 Electrical Engineering 
+- 👀 I’m interested in Data Science, Machine Learning and Web Developer
+- 🌱 I’m currently learning Data Science and Web Developer
+- 💞️ I’m looking ...
+- 📫 How to reach me chidsanu.cc@gmail.com
 
 ## Skills and Tools
 
