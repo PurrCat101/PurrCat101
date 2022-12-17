@@ -1,3 +1,4 @@
+## About me
 I'm curenntly learning data science and web developer.
 
 ## Skills and Tools
@@ -35,3 +36,6 @@ I'm curenntly learning data science and web developer.
 
 #### Competition
 Hackathon Online Super AI Engineer Season3 LV1 
+
+## Github Stat
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurrCat101&theme=radical)
