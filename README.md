@@ -3,12 +3,12 @@ I'm curenntly learning ...
 ## Skills and Tools
 
 #### Programming languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+<a title="Python"><img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="40px" height="40px"></a>
 <a title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a title="HTML"><img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="HTML" width="40px" height="40px"></a>
 <a title="CSS"><img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="CSS" width="40px" height="40px"></a>
 <a title="Excel"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-excel.svg" alt="Excel" width="40px" height="40px"></a>
-<a title="Looker"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-data-studio.svg" alt="Looker" width="40px" height="40px"></a>
+
 
 #### Databases
 
@@ -23,7 +23,10 @@ I'm curenntly learning ...
 
 #### Data Science
 <a title="Numpy"><img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" alt="Numpy" width="40px" height="40px"></a>
+<a title="Pandas"><img src="https://github.com/get-icon/geticon/blob/master/icons/pandas-icon.svg" alt="Pandas" width="40px" height="40px"></a>
 
+#### BI Tools
+<a title="Looker"><img src="https://github.com/get-icon/geticon/blob/master/icons/google-data-studio.svg" alt="Looker" width="40px" height="40px"></a>
 
 #### Competition
 Hackathon Online Super AI Engineer Season3 LV1 
