@@ -39,3 +39,5 @@ Hackathon Online Super AI Engineer Season3 LV1
 
 ## Github Stat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurrCat101&theme=radical)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PurrCat101&theme=blue-green)
