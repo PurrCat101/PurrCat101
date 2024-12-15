@@ -2,8 +2,7 @@
 - 👋 Hi, I’m PurrCat101
 - 🎓 Electrical Engineering 
 - 👀 I’m interested in Data Science, Machine Learning and Web Developer
-- 🌱 I’m currently learning Data Science and Web Developer
-- 💞️ I’m QA Engineer
+- 💞️ I’m Software test engineer
 - 📫 How to reach me chidsanu.cc@gmail.com
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Chidsanu Chaipun</h1>
