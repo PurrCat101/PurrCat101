@@ -3,8 +3,9 @@
 - 🎓 Electrical Engineering 
 - 👀 I’m interested in Data Science, Machine Learning and Web Developer
 - 💞️ I’m Software test engineer
-- 📫 How to reach me chidsanu.cc@gmail.com
-- [Linkedin](https://www.linkedin.com/in/chidsanu-chaipun/)
+- 📫 How to reach me:
+  - **Email**: chidsanu.cc@gmail.com
+  - **LinkedIn**: [Chidsanu Chaipun](https://www.linkedin.com/in/chidsanu-chaipun/)
 
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Chidsanu Chaipun</h1>
 
